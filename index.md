@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
+# Alvaro Hernández Bonet
 
+## Personal Portfolio
+
+### I'm a software engineering student in his last year of the bachelors degree, pasionate for technologies and always willing to learn new things and improve my software knowledge 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
